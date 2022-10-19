@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Bai4-TH1-Form-And-Data-Binding.Bai4-TH1-Form-And-Data-Binding.main" target="1.8" />
+      <module name="Bai4-TH1-Form-And-Data-Binding.Bai4-TH1-Form-And-Data-Binding.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
